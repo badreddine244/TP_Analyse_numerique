@@ -25,6 +25,7 @@ jupyter-core @ file:///D:/bld/jupyter_core_1605735243139/work
 jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1601375948261/work
 jupyterlab-widgets @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_widgets_1609173350931/work
 kiwisolver @ file:///D:/bld/kiwisolver_1604322456418/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
 MarkupSafe @ file:///D:/bld/markupsafe_1602267515311/work
 matplotlib @ file:///D:/bld/matplotlib-suite_1605180495775/work
 mistune @ file:///D:/bld/mistune_1605115874185/work
@@ -52,6 +53,7 @@ PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyrsistent @ file:///D:/bld/pyrsistent_1605115843590/work
 python-dateutil==2.8.1
+python-markdown-math @ file:///home/conda/feedstock_root/build_artifacts/python-markdown-math_1605153801060/work
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1608904108784/work
 pywin32==228
 pywinpty @ file:///D:/bld/pywinpty_1602377770565/work
